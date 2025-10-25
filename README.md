@@ -3,8 +3,8 @@
 # 360 Video Category Agnostic Counting
 
 <font size="4">
-Yen-Lun Chou&emsp;
-Yan-Tsung Peng&emsp;
+YEN-LUN CHOU&emsp;
+YAN-TSUNG PENG&emsp;
 </font>
 <br>
 

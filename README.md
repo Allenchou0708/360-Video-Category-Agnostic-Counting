@@ -12,7 +12,7 @@ Yan-Tsung Peng&emsp;
 National Chung Chi University
 </font>
 
-| <a href="https://ending2015a.github.io/liepose-diffusion-page/">Project Description Slide</a> |
+| <a href="https://github.com/Allenchou0708/360-Video-Category-Agnostic-Counting/blob/main/360%20Video%20CAC%20%E6%8A%95%E5%BD%B1%E7%89%87.pdf">Project Description Slide</a> |
 
 
 ![360_video_cac_cover_image](https://github.com/user-attachments/assets/1f12bd90-8771-447f-81d9-ad6a90d7a791)

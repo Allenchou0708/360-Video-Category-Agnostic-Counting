@@ -4,7 +4,6 @@
 
 <font size="4">
 YEN-LUN CHOU&emsp;
-YAN-TSUNG PENG&emsp;
 </font>
 <br>
 
